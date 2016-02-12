@@ -1,3 +1,3 @@
 ###Exercise
 
-(http://yahoo.com/inclass.html)
+/inclass.html
